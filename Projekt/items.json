@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "image": "https://www.shack.com.au/wp-content/uploads/CHATEAU-DINING-CHAIR-SIDE-800x800.jpg?quality=90&webp=true&resize=300,272",
+        "name":"Chateau Dining Chair",
+        "description":"The Chateau Dining Chair has a rustic French farmhouse appeal, with its classic, cross-back design and high back for support. Hand-crafted from solid mango timber, this is a heavy chair, but the pleasing weight is part of its durability, making it a perfect accompaniment for a large kitchen table for generations to come."
+    }
+    ,
+    {
+        "id":2,
+        "image": "https://cdn.shopify.com/s/files/1/1132/7860/products/3_0081daa3-5e6e-4e73-b1f6-0310d42f6b84_1600x.jpg?v=1640069905quality=90&webp=true&resize=300,272",
+        "name":"School Chair",
+        "description":"This natural wooden chair is a valuable addition to homes, classrooms, play areas and daycare centres. Made of rubberwood and finished with rounded edges, this wooden chair boasts of a child-friendly and compact design aesthetic. This chair comes in a beautifully finished natural wood colour.."
+    },
+    {
+        "id":3,
+        "image": "https://www.ikea.com/sg/en/images/products/ravaror-dining-table-oak-veneer__0835201_pe778340_s5.jpg?f=xl?quality=90&webp=true&resize=300,272",
+        "name":"RÅVAROR",
+        "description":"RÅVAROR tables have a natural and warm expression that fits most styles and chairs. Easy to assemble, take apart and reassemble – and combine since they all have the same height and width or length."
+    },
+    {
+        "id":4,
+        "image": "https://www.ikea.com/sg/en/images/products/moerbylanga-table-oak-veneer-brown-stained__0737110_pe740888_s5.jpg?f=xlquality=90&webp=true&resize=300,272",
+        "name":"MÖRBYLÅNGA",
+        "description":"The oak top layer enhances the plank feeling and details like the floating table top and dovetail joints give the table a crafted look. A table full of character and plenty of room for family and friends."
+    },
+    {
+        "id":5,
+        "image":"https://www.ikea.com/sg/en/images/products/malm-bed-frame-high-w-2-storage-boxes-white-stained-oak-veneer-loenset__0638624_pe699041_s5.jpg?f=xlquality=90&webp=true&resize=300,272",
+        "name":"MALM",
+        "description":"A clean design with solid wood veneer. Place the bed freestanding or with the headboard against a wall. You also get spacious storage boxes that roll out smoothly on castors."
+    },
+    {
+        "id":6,
+        "image":"https://www.ikea.com/sg/en/images/products/songesand-bed-frame-with-2-storage-boxes-brown-luroey__0638590_pe699026_s5.jpg?f=xlquality=90&webp=true&resize=300,272",
+        "name":"SONGESAND",
+        "description":"A sturdy bed frame with soft, profile edges and high legs. A classic shape that will last for many years. Also, there are spacious storage boxes under the bed where you can store bedding or clothes."
+    },
+    {   
+        "id":7,
+        "image":"https://www.ikea.com/sg/en/images/products/strandmon-footstool-nordvalla-dark-grey__0325401_pe517982_s5.jpg?f=xlquality=90&webp=true&resize=300,272",
+        "name":"STRANDMON",
+        "description":"Works as an extra seat or footstool."
+    },
+    {
+        "id":8,
+        "image":"https://www.ikea.com/sg/en/images/products/landskrona-footstool-djuparp-dark-blue-wood__0990453_pe818966_s5.jpg?f=xlquality=90&webp=true&resize=300,272",
+        "name":"LANDSKRONA",
+        "description":"Works as an extra seat or a comfortable extension of your sofa."
+    },
+    {
+        "id":9,
+        "image":"https://www.ikea.com/sg/en/images/products/lagkapten-alex-desk-white-stained-oak-effect-white__1022006_pe832400_s5.jpg?f=xlquality=90&webp=true&resize=300,272",
+        "name":"LAGKAPTEN / ALEX",
+        "description":"Limited space doesn’t mean you have to say no to studying or working from home. This desk takes up little floor space yet still has two drawer units where you can store papers and other things."
+    },
+    {
+        "id":10,
+        "image":"https://www.ikea.com/sg/en/images/products/anfallare-hilver-desk-bamboo__0976194_pe813091_s5.jpg?f=xlquality=90&webp=true&resize=300,272",
+        "name":"ANFALLARE / HILVER",
+        "description":"Mix and match your choice of table top and legs – or choose this ready-made combination. Strong and light-weight, made with a technique that uses less raw materials, reducing the impact on the environment."
+    }
+  
+
+]
